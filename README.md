@@ -51,24 +51,16 @@ This project analyzes supplier performance data to identify high-risk suppliers,
 ```
 supplier-risk-analysis/
 ├── README.md                           # This file
-├── CASE_STUDY.md                       # Full business case study (1-2 pages)
+├── CASE_STUDY.md                       # Full business case study 
 │
 ├── notebooks/
-│   ├── 01_data_exploration.ipynb       # Data loading & EDA
-│   ├── 02_feature_engineering.ipynb    # Metrics calculation & normalization
-│   ├── 03_concentration_risk.ipynb     # Supplier dependency analysis
-│   ├── 04_risk_scoring.ipynb           # Risk model application
-│   ├── 05_expected_loss.ipynb          # Financial impact quantification
-│   └── 06_recommendations.ipynb        # Actionable recommendations
-│
+│   ├── Supply Chain Analytics.ipnyb
+│   
 ├── data/
 │   ├── raw/
 │   │   └── Procurement_KPI_Analysis_Dataset.csv    # Source data (777 records)
 │   └── processed/
-│       ├── supplier_metrics.csv                     # Calculated metrics
-│       ├── concentration_risk.csv                   # Dependency analysis
-│       ├── risk_scores.csv                          # Final risk rankings
-│       └── financial_impact.csv                     # Expected losses
+│       ├── Final_KPI_Procurement_Dataset.xls       # Processed Dataset
 │
 ├── dashboards/
 │   └── supplier_risk_dashboard.pbix               # Power BI dashboard
@@ -326,8 +318,8 @@ The project includes an interactive Power BI dashboard (`supplier_risk_dashboard
 
 Data Analyst | Supply Chain Enthusiast | Python | SQL | Power BI
 
-- **LinkedIn:** [linkedin.com/in/rajeev-dhami](https://linkedin.com/in/rajeev-dhami)
-- **GitHub:** [github.com/rajeev-dhami](https://github.com/rajeev-dhami)
+- **LinkedIn:**  https://www.linkedin.com/in/rajeev-dhami-994552107/
+- **GitHub:** https://github.com/RajeevDhami/supply-chain-risk-analysis
 
 ---
 

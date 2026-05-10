@@ -469,10 +469,10 @@ Includes:
 
 **Rajeev Dhami**
 
-Data Analyst | Supply Chain Enthusiast | Python | SQL | Power BI
+ Aspiring Data Analyst | Supply Chain Enthusiast | Python | SQL | Power BI
 
-- LinkedIn: [linkedin.com/in/rajeev-dhami](https://linkedin.com/in/rajeev-dhami)
-- GitHub: [github.com/rajeev-dhami](https://github.com/rajeev-dhami)
+- LinkedIn: https://www.linkedin.com/in/rajeev-dhami-994552107/
+- GitHub: https://github.com/RajeevDhami/supply-chain-risk-analysis
 
 ---
 
@@ -504,7 +504,6 @@ This project is licensed under the MIT License.
 ---
 
 **Last Updated:** May 2026  
-**Status:** Complete & Ready for Portfolio
 
 ---
 
@@ -520,5 +519,3 @@ This project is licensed under the MIT License.
 | `Supplier_Risk_Case_Study_Final.pdf` | Executive case study |
 
 ---
-
-**Ready to deploy to GitHub? All files are organized and documented.**

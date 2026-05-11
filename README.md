@@ -29,10 +29,10 @@ This project analyzes supplier performance data to identify high-risk suppliers,
 
 ## Supplier Risk Dashboard
 
-```markdown
+
 <img width="1517" height="852" alt="Supplier_Risk_Overview" src="https://github.com/user-attachments/assets/5a2956fe-9441-404a-88ad-bf5d4eecbc4e" />
 
-```
+
 
 The Power BI dashboard provides:
 
